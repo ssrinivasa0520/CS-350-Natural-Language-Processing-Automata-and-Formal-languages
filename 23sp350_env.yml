@@ -1,0 +1,9 @@
+name: 23sp350
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - scipy
+  - nltk
+  - nltk_data
